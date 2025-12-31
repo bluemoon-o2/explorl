@@ -1,0 +1,7 @@
+.idea/
+.trae/
+build/
+third_party/
+unitree_ros/
+
+*.mp4
